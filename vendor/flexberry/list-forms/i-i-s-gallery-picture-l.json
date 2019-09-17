@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gallery-picture-e",
+  "editForm": "i-i-s-gallery-picture-e",
+  "external": false,
+  "caption": "Picture",
+  "name": "IISGalleryPictureL",
+  "className": "PictureL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gallery-picture",
+      "modelProjection": "PictureL"
+    }
+  ]
+}

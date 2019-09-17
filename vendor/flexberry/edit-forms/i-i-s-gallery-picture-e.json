@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Author",
+      "projection": "AuthorL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Picture",
+  "name": "IISGalleryPictureE",
+  "className": "PictureE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gallery-picture",
+      "modelProjection": "PictureE"
+    }
+  ]
+}

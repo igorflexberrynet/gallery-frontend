@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Author",
+  "name": "IISGalleryAuthorE",
+  "className": "AuthorE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gallery-author",
+      "modelProjection": "AuthorE"
+    }
+  ]
+}
