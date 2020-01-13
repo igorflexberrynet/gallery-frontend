@@ -9,6 +9,7 @@ moduleForModel('i-i-s-gallery-picture', 'Unit | Serializer | i-i-s-gallery-pictu
     'transform:guid',
 
     'model:i-i-s-gallery-author',
+    'model:i-i-s-gallery-new-class1',
     'model:i-i-s-gallery-picture'
   ]
 });

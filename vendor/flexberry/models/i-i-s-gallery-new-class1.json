@@ -1,0 +1,25 @@
+﻿{
+  "name": "IISGalleryNewClass1",
+  "modelName": "i-i-s-gallery-new-class1",
+  "className": "NewClass1",
+  "nameSpace": "IIS.Gallery",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "attr1",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

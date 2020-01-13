@@ -1,6 +1,6 @@
 import { moduleForModel, test } from 'ember-qunit';
 
-moduleForModel('i-i-s-gallery-picture', 'Unit | Model | i-i-s-gallery-picture', {
+moduleForModel('i-i-s-gallery-new-class1', 'Unit | Model | i-i-s-gallery-new-class1', {
   // Specify the other units that are required for this test.
   needs: [
     'model:i-i-s-gallery-author',

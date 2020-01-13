@@ -4,6 +4,7 @@ moduleForModel('i-i-s-gallery-author', 'Unit | Model | i-i-s-gallery-author', {
   // Specify the other units that are required for this test.
   needs: [
     'model:i-i-s-gallery-author',
+    'model:i-i-s-gallery-new-class1',
     'model:i-i-s-gallery-picture'
   ]
 });

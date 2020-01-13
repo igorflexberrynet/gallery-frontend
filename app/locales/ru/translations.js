@@ -6,6 +6,7 @@ import IISGalleryPictureLForm from './forms/i-i-s-gallery-picture-l';
 import IISGalleryAuthorEForm from './forms/i-i-s-gallery-author-e';
 import IISGalleryPictureEForm from './forms/i-i-s-gallery-picture-e';
 import IISGalleryAuthorModel from './models/i-i-s-gallery-author';
+import IISGalleryNewClass1Model from './models/i-i-s-gallery-new-class1';
 import IISGalleryPictureModel from './models/i-i-s-gallery-picture';
 
 const translations = {};
@@ -14,6 +15,7 @@ Ember.$.extend(true, translations, EmberFlexberryTranslations);
 Ember.$.extend(true, translations, {
   models: {
     'i-i-s-gallery-author': IISGalleryAuthorModel,
+    'i-i-s-gallery-new-class1': IISGalleryNewClass1Model,
     'i-i-s-gallery-picture': IISGalleryPictureModel,
   },
 

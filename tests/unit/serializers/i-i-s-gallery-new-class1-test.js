@@ -1,9 +1,9 @@
 import { moduleForModel, test } from 'ember-qunit';
 
-moduleForModel('i-i-s-gallery-author', 'Unit | Serializer | i-i-s-gallery-author', {
+moduleForModel('i-i-s-gallery-new-class1', 'Unit | Serializer | i-i-s-gallery-new-class1', {
   // Specify the other units that are required for this test.
   needs: [
-    'serializer:i-i-s-gallery-author',
+    'serializer:i-i-s-gallery-new-class1',
     'transform:file',
     'transform:decimal',
     'transform:guid',
